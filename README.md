@@ -1,1 +1,1 @@
-# My First Project using SQL
+# SQL Mini Project
